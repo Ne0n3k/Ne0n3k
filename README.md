@@ -32,11 +32,17 @@ Interested in data mining, machine learning and mobile apps.
       src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
-  </a>
+  </a>&emsp;
   <a href="mailto:jakub.blazowski@gmail.com">
     <img
       src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white"
       alt="Email"
+    />
+  </a>&emsp;
+  <a href="https://www.hackerrank.com/jakub_blazowski">
+    <img
+      src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white"
+      alt="HackerRank"
     />
   </a>
 </p>
